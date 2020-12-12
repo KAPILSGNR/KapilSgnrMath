@@ -1,0 +1,8 @@
+setup.py
+KapilSgnrMath/MyBox.py
+KapilSgnrMath/MyRectangle.py
+KapilSgnrMath/__init__.py
+KapilSgnrMath.egg-info/PKG-INFO
+KapilSgnrMath.egg-info/SOURCES.txt
+KapilSgnrMath.egg-info/dependency_links.txt
+KapilSgnrMath.egg-info/top_level.txt
